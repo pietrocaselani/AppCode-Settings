@@ -1,4 +1,4 @@
-<code_scheme name="PC">
+<code_scheme name="PC" version="173">
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="2" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
@@ -34,9 +34,9 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="mm" header="h" />
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="mm" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
@@ -53,6 +53,9 @@
   </codeStyleSettings>
   <codeStyleSettings language="Swift">
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
