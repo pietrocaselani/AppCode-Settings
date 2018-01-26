@@ -30,6 +30,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/babosa-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bundle (v0.0.1, ruby-2.0.0-p648 (1)) [gem]">
       <CLASSES />
       <SOURCES />
@@ -490,6 +498,14 @@
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/i18n-0.7.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="json (v1.7.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/json-1.8.3/ext" />
@@ -620,6 +636,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/mini_magick-4.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v4.3.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/minitest" />
       </SOURCES>
     </library>
     <library name="minitest (v5.9.1, ruby-2.0.0-p648) [gem]">
@@ -794,6 +818,56 @@
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/produce-1.2.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.0.0/gems/produce-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="psych (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/psych/handlers" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/nodes" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/visitors" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/json" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/psych/handlers" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/nodes" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/visitors" />
+        <root url="file:///usr/lib/ruby/2.0.0/psych/json" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/rake/ext" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/lib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/contrib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/rake/ext" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/lib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/contrib" />
+        <root url="file:///usr/lib/ruby/2.0.0/rake/loaders" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/rd" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markdown" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/parser" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/stats" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/generator" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markup" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/context" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/ri" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/rd" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markdown" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/parser" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/stats" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/generator" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/markup" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/context" />
+        <root url="file:///usr/lib/ruby/2.0.0/rdoc/ri" />
       </SOURCES>
     </library>
     <library name="representable (v2.3.0, ruby-2.0.0-p648) [gem]">
