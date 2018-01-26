@@ -1,0 +1,74 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="ruby-2.0.0-p648" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.0.0p648 ( revision 53162) p648" />
+      <homePath value="/usr/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Ruby/Site/2.0.0" type="simple" />
+            <root url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///Library/Ruby/Site" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs20" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file:///Library/Ruby/Site/2.0.0" type="simple" />
+            <root url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///Library/Ruby/Site" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs20" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.0.0p648 ( revision 53162) p648" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
+    </jdk>
+    <jdk version="2">
+      <name value="ruby-2.0.0-p648 (1)" />
+      <type value="RUBY_SDK" />
+      <version value="ver.2.0.0p648 ( revision 53162) p648" />
+      <homePath value="/usr/bin/ruby" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///Library/Ruby/Site/2.0.0" type="simple" />
+            <root url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///Library/Ruby/Site" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs20" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file:///Library/Ruby/Site/2.0.0" type="simple" />
+            <root url="file:///Library/Ruby/Site/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///Library/Ruby/Site" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/vendor_ruby" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0" type="simple" />
+            <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/universal-darwin15" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/rubystubs20" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional NORMALIZED_VERSION_STRING="ver.2.0.0p648 ( revision 53162) p648" IS_RVM_SDK="false" RVM_IGNORE_GLOBAL="false" GEMS_BIN_DIR_PATH="/usr/bin" />
+    </jdk>
+  </component>
+</application>

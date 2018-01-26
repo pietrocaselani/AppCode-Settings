@@ -1,0 +1,10 @@
+<templateSet group="Objective-C">
+  <template name="blockvar" value="$TYPE$ (^$NAME$)($PARAMS$) = ^$TYPE$($PARAMS$) {&#10;$END$&#10;};" description="Create a block variable" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="className()" defaultValue="id" alwaysStopAt="true" />
+    <variable name="NAME" expression="suggestVariableName()" defaultValue="handler" alwaysStopAt="true" />
+    <variable name="PARAMS" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OC_EXPRESSION" value="true" />
+    </context>
+  </template>
+</templateSet>

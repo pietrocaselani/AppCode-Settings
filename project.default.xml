@@ -1,0 +1,13 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="settings.editor.selected.configurable" value="XcodeSettings" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="XcodeMetaData" SHOW_WORKSPACE_NOTIFICATIONS="true" />
+    </defaultProject>
+  </component>
+</application>
