@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/Users/pc/Library/Application Support/AppCode2018.1/kotlinNative-appcode/kotlinc" />
+  </component>
+</application>
