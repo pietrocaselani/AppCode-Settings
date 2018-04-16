@@ -1,9 +1,9 @@
 <application>
   <component name="XcodeNewProjectMetadata">
-    <lastUsedFolder path="$USER_HOME$/Dev/iOS" />
+    <lastUsedFolder path="$USER_HOME$/Documents/Dev/iOS/KotlinTests" />
     <string key="organizationName" value="Pietro Caselani" />
     <string key="languageChoice" value="Swift" />
-    <boolean key="hasUnitTests" value="false" />
+    <boolean key="hasUnitTests" value="true" />
     <boolean key="coreData" value="false" />
     <string key="bundleIdentifierPrefix" value="io.github.pietrocaselani" />
     <boolean key="hasUITests" value="false" />
